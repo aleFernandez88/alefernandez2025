@@ -43,9 +43,11 @@ export default function CardInformation() {
                 <div className="rotate-box-info">
                   <h4>Maquetación Web</h4>
                   <p>
-                    Como maquetador web, he trabajado con HTML, CSS y
-                    JavaScript, utilizando diversas bibliotecas y frameworks
-                    para crear interfaces de usuario atractivas y funcionales.
+                    Soy un desarrollador al que le gusta mucho la creación de
+                    interfaces bonitas y eficientes.Mi trabajo favorito se
+                    encuentra en la creación experiencias que no solo se vean
+                    increíbles, sino que también estén optimizadas para el
+                    rendimiento y la usabilidad.
                   </p>
                 </div>
               </Box>
@@ -165,13 +167,12 @@ export default function CardInformation() {
                   <ExtensionTwoToneIcon />
                 </span>
                 <div className="rotate-box-info">
-                  <h4>Especialización Futura</h4>
+                  <h4>Ahora mismo</h4>
                   <p>
-                    Alcanzado mi objetivo de ser un FullStack Dev, mi plan es
-                    especializarme en una sola rama. Esto me permitirá
-                    profundizar en áreas específicas y ofrecer soluciones
-                    especializadas y de alta calidad a los desafíos del mundo
-                    real.
+                    Soy un desarrollador manejando los frameworks bases de React
+                    JS y Angular, me encuentro especializándome en la
+                    arquitectura de los proyectos utilizando los mejores
+                    patrones de diseños para cada requerimiento.
                   </p>
                 </div>
               </Box>
